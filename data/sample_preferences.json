@@ -1,0 +1,23 @@
+{
+  "LocationType": {
+
+    "Remote" : 5,
+    "Hybrid" : 2,
+    "InOffice" : 1
+
+  },
+
+  "City" : {
+    "CDMX" : 3,
+    "Guadalajara" : 2,
+    "Monterrey" : 1,
+    "León" : 2,
+    "Querétaro" : 2,
+    "Morelia" : 4
+  },
+
+  "EmploymentType" : {
+    "Salary" : 5,
+    "Contractor" : 3
+  }
+}

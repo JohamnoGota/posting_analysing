@@ -1,0 +1,39 @@
+{
+  "ProgrammingLanguages": {
+
+    "Python" : "Advanced",
+    "SQL" : "Advanced",
+    "R" : "Basic",
+    "Scala" : "None",
+    "Java" : "Intermediate"
+  },
+
+  "DataProcessing" : {
+    "Pandas" : "Intermediate",
+    "PySpark" : "Basic",
+    "Spark" : "Basic",
+    "AWSGlue" : "Baisc"   
+  },
+
+  "WareHousing" : {
+    "Snowflake" : "None",
+    "Databricks" : "None",
+    "BiqQuery" : "None",
+    "Redshift" : "None"
+  },
+
+  "IaC" : {
+    "Terraform" : "Basic",
+    "CloudFormation": "None",
+    "AzureBicep" : "None"
+  },
+
+  "Orchestration" : {
+    "ApacheAirflow" : "None",
+    "Prefect" : "None",
+    "Dagster" : "None"
+  },
+
+  "YearsOfExperience" : 1
+
+}
